@@ -51,7 +51,7 @@
     		
 
 <p>WOWTCHES an exquisite range of products from the topmost and leading wristwatch manufacturers, which can be bought online. 
-Founded in 2016 in the sprawling city of Coimbatore, Tamil Nadu, the Manchester of South India, WOWTCHES operates 50 stores in South India located in Chennai and Bangalore apart from Coimbatore and offers various luxury collection of watches, from high to mid- range price point– some of these include, but certainly are not limited to, the likes of Rolex, Omega, TAG Heuer, Gucci, Rado and Tissot. Appointed as one of the topmost and best retailers by HMT watches, WOWTCHES has had the privilege and the honour of serving to an expansive clientele.</p>
+Founded in 2016 in the sprawling city of Thane, Coimbatore, Tamil Nadu, the Manchester of South India, WOWTCHES operates 50 stores in South India located in Chennai and Bangalore apart from Coimbatore and offers various luxury collection of watches, from high to mid- range price point– some of these include, but certainly are not limited to, the likes of Rolex, Omega, TAG Heuer, Gucci, Rado and Tissot. Appointed as one of the topmost and best retailers by HMT watches, WOWTCHES has had the privilege and the honour of serving to an expansive clientele.</p>
     	</div>
     </div>
    	<div class="content_middle_bottom">
